@@ -11,10 +11,10 @@ https://signate.jp/competitions/624
 ▼ファイルの説明
 1. data_maesyori.ipynb - train.csvおよびtest.csvのデータを整形するコード
 2. lgb_analysis.ipynb - 整形したデータを元に予測するコード
-3. test.csv - テストデータ
-4. test_seikei.csv - 整形したテストデータ
+3. test.csv - 評価用ファイル
+4. test_seikei.csv - データ整形した評価用ファイル
 5. submit_sample.csv - 提出する形式のサンプルファイル
 6. submit_result.csv - 予測したデータを入れた提出ファイル
 
 ▼備考
-訓練データであるtrain.csvおよびtrain_seikei.csvファイルは25MB以上のためアップロードできませんでした。
+学習用データファイルであるtrain.csv、学習用データを整形したtrain_seikei.csvファイルは25MB以上のためアップロードできませんでした。
