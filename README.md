@@ -9,7 +9,7 @@ https://signate.jp/competitions/624
 ・学習用データと評価用データにはそれぞれ別の都市のデータが含まれており、評価用データのPM2.5濃度が「未観測」の都市が予測対象となります。
 
 ▼ファイルの説明
-1. data_maesyori.ipynb - train.csvおよびtest.csvのデータを整形するコード
+1. data_maesyori.ipynb - train.csvおよびtest.csvのデータファイルを整形するコード
 2. lgb_analysis.ipynb - 整形したデータを元に予測するコード
 3. test.csv - 評価用ファイル
 4. test_seikei.csv - データ整形した評価用ファイル
