@@ -17,7 +17,7 @@ https://signate.jp/competitions/624
 5. submit_sample.csv - 提出する形式のサンプルファイル
 6. submit_result.csv - 予測したデータを入れた提出ファイル
 
-▼コードの概要
+▼コードの概要<br>
 data_preprocessing.ibpynファイルでは、データの中で、外れ値や、0などノイズのデータを平均値に置き換えている。
 data_analysis.ipynbファイルでは、整形したデータをLightGBMを使用して分析し、予測している。
 
